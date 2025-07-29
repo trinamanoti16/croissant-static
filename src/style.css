@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: #333;
+}
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #666;
+    text-align: center;
+}
+body {
+    margin: 0;
+    padding: 20px;
+    background-color:aquamarine;
+}
+a {
+    color: #006400;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    display: block;
+}
+img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
